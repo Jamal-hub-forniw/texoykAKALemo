@@ -42,7 +42,7 @@ local words = {
     '😴😴😴😴',
 }
 local player = game.Players.LocalPlayer
-local keybind = 'v'
+local keybind = 'p'
 
 local event = game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest
 
